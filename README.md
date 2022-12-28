@@ -36,3 +36,14 @@ Let's become a Google Certified Tensorflow Developer together !
 - Roberto's perspective on the exam is personal, fresh, and insightful. Recommended for his commentary on how to work through problems as they arrise on the exam.
 
 [TensorFlow developer certification, brief study guide](https://www.linkedin.com/pulse/tensorflow-developer-certification-vivek-bombatkar/)
+
+
+
+
+### Extras
+
+- [deeplearning.ai videos on Coursera/YouTube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) — The examination is purely code-based (Python code) but if you want to know what’s going on behind the scenes of the code you’re writing (linear algebra, calculus), I’d jump in and out of videos here as you see fit. For example, if you’re not sure what mini-batch gradient descent is, search “deeplearning.ai mini-batch gradient descent”.
+
+- [TensorFlow documentation](https://www.tensorflow.org/api_docs/python/tf) — If you’re going to be a TensorFlow practitioner, you’re going to need to be able to read the documentation. If you don’t understand something, write the code and comment it yourself.
+
+- [Coding with TensorFlow on YouTube (playlist)](https://www.youtube.com/playlist?list=PLQY2H8rRoyvwLbzbnKJ59NkZvQAW9wLbx) — Most of the TensorFlow in Practice Coursera Specialization in video series on YouTube, taught by the same instructor as well.
