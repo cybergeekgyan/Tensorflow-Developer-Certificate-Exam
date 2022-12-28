@@ -22,7 +22,7 @@ Let's become a Google Certified Tensorflow Developer together !
 | [How I passed the tensorflow developer certification exam, Daniel Bourke](https://towardsdatascience.com/how-i-passed-the-tensorflow-developer-certification-exam-f5672a1eb641) |
 
 
-### Blog Articles 
+## Blog Articles 
 
 *Below is a list of blog articles that help get an idea what others did in terms of study for the exam.*
 
@@ -40,7 +40,7 @@ Let's become a Google Certified Tensorflow Developer together !
 
 
 
-### Extras
+## Extras
 
 - [deeplearning.ai videos on Coursera/YouTube](https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w/playlists) — The examination is purely code-based (Python code) but if you want to know what’s going on behind the scenes of the code you’re writing (linear algebra, calculus), I’d jump in and out of videos here as you see fit. For example, if you’re not sure what mini-batch gradient descent is, search “deeplearning.ai mini-batch gradient descent”.
 
